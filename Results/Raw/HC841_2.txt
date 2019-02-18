@@ -1,0 +1,11 @@
+2018-4-26,15:27:57
+trial,stimulus,sound1,sound2,selection,RT
+1,Step_2_100.wav,NA,NA,Sha,1.486960e+00
+2,Step_1_100.wav,NA,NA,Sha,3.747804e+00
+3,Step_1_100.wav,NA,NA,Sha,7.706611e+00
+4,Step_3_100.wav,NA,NA,Sha,9.242496e+00
+5,Step_6_100.wav,NA,NA,Sha,2.541917e+00
+6,Step_6_100.wav,NA,NA,Sa,1.401279e-01
+7,Step_4_100.wav,NA,NA,Sha,3.482061e+00
+8,Step_6_100.wav,NA,NA,Sa,9.799869e-01
+9,Step_5_100.wav,NA,NA,Sa,8.038037e+00

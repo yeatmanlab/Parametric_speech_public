@@ -1,0 +1,2 @@
+SubjectID,width,duration,threshold,slope,lapse,guess,eta,deviance,residuals,loglikelihood
+HC1052,0.100000,300.000000,7.008151,0.148435,0.100000,0.030948,0.001414,1.622061,0.038955,44.877170

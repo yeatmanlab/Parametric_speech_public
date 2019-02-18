@@ -1,0 +1,2 @@
+SubjectID,width,duration,threshold,slope,lapse,guess,eta,deviance,residuals,loglikelihood
+IC880,0.100000,100.000000,3.216033,0.147222,0.075792,0.086111,0.000000,3.656365,0.089815,46.732357

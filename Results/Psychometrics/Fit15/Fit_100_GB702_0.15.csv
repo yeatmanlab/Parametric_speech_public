@@ -1,0 +1,2 @@
+SubjectID,width,duration,threshold,slope,lapse,guess,eta,deviance,residuals,loglikelihood
+GB702,0.150000,100.000000,3.366866,0.491983,0.000008,0.149960,0.000040,2.317689,0.039267,39.840770

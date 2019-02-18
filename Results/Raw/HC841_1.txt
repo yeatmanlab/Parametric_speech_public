@@ -1,0 +1,16 @@
+2018-4-26,15:26:23
+trial,stimulus,sound1,sound2,selection,RT
+1,Step_7_100.wav,NA,NA,Sa,8.740871e-01
+2,Step_1_100.wav,NA,NA,Sha,1.864828e+00
+3,Step_5_100.wav,NA,NA,Sha,3.684411e-01
+4,Step_3_100.wav,NA,NA,Sa,2.097290e-01
+5,Step_3_100.wav,NA,NA,Sa,3.154034e+00
+6,Step_5_100.wav,NA,NA,Sha,1.264962e+00
+7,Step_6_100.wav,NA,NA,NA,5.929470e-04
+8,Step_1_100.wav,NA,NA,Sa,6.151199e-04
+9,Step_7_100.wav,NA,NA,Sa,6.374023e+00
+10,Step_1_100.wav,NA,NA,Sha,2.241433e+00
+11,Step_4_100.wav,NA,NA,Sha,5.997549e+00
+12,Step_6_100.wav,NA,NA,NA,2.664210e+00
+13,Step_5_100.wav,NA,NA,NA,7.106221e-01
+14,Step_3_100.wav,NA,NA,NA,9.503582e+00

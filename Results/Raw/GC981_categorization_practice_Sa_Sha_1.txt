@@ -1,0 +1,10 @@
+2018-7-6,17:14:15
+trial,stimulus,selection,RT
+1,Step_7_300.wav,Sa,1.487773e+01
+2,Step_7_300.wav,Sa,5.969683e+00
+3,Step_7_300.wav,Sa,4.222132e+00
+4,Step_7_300.wav,Sa,7.394018e-01
+5,Step_1_300.wav,Sha,5.077729e-01
+6,Step_1_300.wav,Sha,1.876475e+00
+7,Step_1_300.wav,Sha,4.555430e-01
+8,Step_1_300.wav,Sha,2.707169e-01

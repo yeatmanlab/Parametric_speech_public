@@ -1,0 +1,2 @@
+SubjectID,width,duration,threshold,slope,lapse,guess,eta,deviance,residuals,loglikelihood
+IC1133,0.200000,100.000000,0.996785,0.153268,0.196457,0.108339,0.000049,4.704327,0.114047,45.622276
